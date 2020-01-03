@@ -1,0 +1,12 @@
+Express = O express deve está atribuido a uma função
+função.liste(3000) = Criar um Localhost
+
+Req = representa todos os dados da requisição(post, query params, etc)
+Res = Todas as informações para retornar uma resposta ao front
+
+
+// Query params = ?teste=1 | req.query
+// Router params = /users/1 | req.params
+// Request body = { informações que vem na rota post e put ex: "name": "Ariel"}
+
+// Localhost:3000/teste
